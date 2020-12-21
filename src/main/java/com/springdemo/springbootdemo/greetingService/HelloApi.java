@@ -1,4 +1,4 @@
-package com.springdemo.springbootdemo;
+package com.springdemo.springbootdemo.greetingService;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

@@ -1,4 +1,6 @@
-package com.springdemo.springbootdemo;
+package com.springdemo.springbootdemo.topicService;
+
+import org.springframework.web.bind.annotation.RequestBody;
 
 public class Topics {
 
@@ -40,4 +42,5 @@ public class Topics {
     public void setDescription(String description) {
         this.description = description;
     }
+
 }
